@@ -17,17 +17,13 @@
     
 #Problema 2 Escribe un codigo que pida al usuario ingresar un numero entero y que determine si es par o impar.
 
-while True:
-    try:
-        numero_ingresar = int(input("Ingrese un número entero: "))
-    except ValueError:
-        print("El número ingresado no es un entero válido. Por favor, ingrese un número entero.")
-        continue
-    if numero_ingresar % 2 == 0:
-        print("El número es par.")
-    else:
-        print("El número es impar.")
-        break
+
+numero_ingresar = int(input("Ingrese un número entero: "))
+
+if numero_ingresar  % 2  == 0:
+    print("El numero ingresado es par.")
+else:
+    print("El número que ha sido ingresado es impar.")
 
 #------------------------------------------------------------------------------------------------
 #Problema 3 Escribe un código que, mediante un ciclo *while*, sume los primeros 100 números naturales.
