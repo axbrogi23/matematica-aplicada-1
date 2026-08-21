@@ -1,6 +1,9 @@
 
+#----------------------------------------------------#
+# ---- EJERCICIOS DE MATEMATICAS APLICADA ----- # 
+#----------------------------------------------------#
 
-# #Problema 1 Escribe un código que pida al usuario ingresar un número real y determine si el número ingresado es positivo, negativo o cero.
+#Problema 1 Escribe un código que pida al usuario ingresar un número real y determine si el número ingresado es positivo, negativo o cero.
 # numero = float(input("Ingrese un número: "))
 
 # if numero > 0: 
