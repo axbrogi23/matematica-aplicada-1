@@ -18,12 +18,12 @@
 #Problema 2 Escribe un codigo que pida al usuario ingresar un numero entero y que determine si es par o impar.
 
 
-numero_ingresar = int(input("Ingrese un número entero: "))
+#numero_ingresar = int(input("Ingrese un número entero: "))
 
-if numero_ingresar  % 2  == 0:
-    print("El numero ingresado es par.")
-else:
-    print("El número que ha sido ingresado es impar.")
+#if numero_ingresar  % 2  == 0:
+    #print("El numero ingresado es par.")
+#else:
+   # print("El número que ha sido ingresado es impar.")
 
 #------------------------------------------------------------------------------------------------
 #Problema 3 Escribe un código que, mediante un ciclo *while*, sume los primeros 100 números naturales.
@@ -60,7 +60,12 @@ else:
  
 # numero = int(input("Ingrese un número entero: "))
 
-# for i in range (1, 13):
-#     resultado = numero * i
-#     print(numero, "x", i, "=", resultado)   
+#While true:
+    #try:
+        # for i in range (1, 13):
+        #     resultado = numero * i
+        #     print(numero, "x", i, "=", resultado) 
+#ExceptValueError:
+            #print('Error: Ejecute inserte un valor nuevamente..')
+            
 
