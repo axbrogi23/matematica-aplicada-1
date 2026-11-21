@@ -25,7 +25,9 @@ Repositorio de actividades, ejercicios y evaluaciones del curso **Matemática Ap
 │   ├── G4_Sucesiones.ipynb
 │   ├── G5_Matrices.ipynb
 │   ├── G6_Aplicaciones_de_matrices.ipynb
-│   └── ...
+│   └── T4_MAT2121_FC(Axel Brogi, Jorge Romero)
+|   ├── Evaluacion 4 Axel Brogi
+|   ├── Clase del 09
 └── ejercicios matematica aplicada/
     └── Matematica.py
 ```
